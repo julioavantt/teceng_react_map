@@ -1,0 +1,48 @@
+[
+	{
+		"type": "Feature",
+		"properties": {
+			"name": "Mare Germanicum",
+			"status": 1,
+			"detail": "lorem ipsum"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [1200, 800]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"name": "Mare Balticum",
+			"detail": "lorem ipsum",
+			"status": 1
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [1690, 1107]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"name": "Mare Mediteraneum",
+			"status": 0
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [1028, 453]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"name": "Mare Maggiore",
+			"status": 0
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [2023, 518]
+		}
+	}
+]
